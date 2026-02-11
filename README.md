@@ -251,5 +251,3 @@ Requires the `Layers` module (`from kmk.modules.layers import Layers`).
 ## License
 
 This project is open source. Feel free to modify and share.
-#   S p l i t - k e y b o a r d  
- 

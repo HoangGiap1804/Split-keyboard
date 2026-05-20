@@ -1,8 +1,10 @@
 # RP2040-Zero Split Keyboard Firmware
 
+![Split Keyboard Background](assets/background.jpg)
+
 Custom split mechanical keyboard firmware built with [KMK](http://kmkfw.io/) running on two **Waveshare RP2040-Zero** microcontrollers.
 
-![RP2040-Zero Pinout](RP2040-Zero.png)
+![RP2040-Zero Pinout](assets/RP2040-Zero.png)
 
 ## Overview
 
@@ -69,7 +71,7 @@ The **RP2040-Zero** is a mini development board by Waveshare featuring a USB Typ
 
 ### Wiring Diagram
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](assets/circuit.png)
 
 ## Firmware Features
 
@@ -153,6 +155,8 @@ The **RP2040-Zero** is a mini development board by Waveshare featuring a USB Typ
 ### 3D Printing
 
 The `splitkeyboard.stl` file contains the 3D model for the keyboard case. Print one mirrored copy for each half.
+
+![3D Model Render](assets/image.png)
 
 ## Customization
 
